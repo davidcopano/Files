@@ -1422,19 +1422,19 @@
         </trans-unit>
         <trans-unit id="PropertyThumbnailLargePath" translate="yes" xml:space="preserve">
           <source>Thumbnail Large Path</source>
-          <target state="new">Thumbnail Large Path</target>
+          <target state="translated">Ruta de la miniatura grande</target>
         </trans-unit>
         <trans-unit id="PropertyThumbnailLargeUri" translate="yes" xml:space="preserve">
           <source>Thumbnail Large Uri</source>
-          <target state="new">Thumbnail Large Uri</target>
+          <target state="translated">URI de la miniatura grande</target>
         </trans-unit>
         <trans-unit id="PropertyThumbnailSmallPath" translate="yes" xml:space="preserve">
           <source>Thumbnail Small Path</source>
-          <target state="new">Thumbnail Small Path</target>
+          <target state="translated">Ruta de la miniatura pequeña</target>
         </trans-unit>
         <trans-unit id="PropertyThumbnailSmallUri" translate="yes" xml:space="preserve">
           <source>Thumbnail Small Uri</source>
-          <target state="new">Thumbnail Small Uri</target>
+          <target state="translated">URI de la miniatura pequeña</target>
         </trans-unit>
         <trans-unit id="PropertyUserWebUrl" translate="yes" xml:space="preserve">
           <source>User Web Url</source>
@@ -2681,651 +2681,651 @@
         </trans-unit>
         <trans-unit id="SettingsAboutPrivacyPolicy.Text" translate="yes" xml:space="preserve">
           <source>Privacy policy</source>
-          <target state="new">Privacy policy</target>
+          <target state="translated">Política de privacidad</target>
         </trans-unit>
         <trans-unit id="SettingsAboutPrivacyPolicyListViewItem.AutomationProperties.Name" translate="yes" xml:space="preserve">
           <source>View Files privacy policy</source>
-          <target state="new">View Files privacy policy</target>
+          <target state="translated">Ver política de privacidad de Files</target>
         </trans-unit>
         <trans-unit id="RenameFileDialogTitle" translate="yes" xml:space="preserve">
           <source>Rename</source>
-          <target state="new">Rename</target>
+          <target state="translated">Renombrar</target>
         </trans-unit>
         <trans-unit id="StatusDeletionCancelled" translate="yes" xml:space="preserve">
           <source>Deletion cancelled</source>
-          <target state="new">Deletion cancelled</target>
+          <target state="translated">Borrado cancelado</target>
         </trans-unit>
         <trans-unit id="StatusMoveCanceled" translate="yes" xml:space="preserve">
           <source>Move canceled</source>
-          <target state="new">Move canceled</target>
+          <target state="translated">Movimiento cancelado</target>
         </trans-unit>
         <trans-unit id="StatusCopyCanceled" translate="yes" xml:space="preserve">
           <source>Copy canceled</source>
-          <target state="new">Copy canceled</target>
+          <target state="translated">Copia cancelada</target>
         </trans-unit>
         <trans-unit id="StatusMoveCanceledDetails_Singular" translate="yes" xml:space="preserve">
           <source>Moving {0} item from {1} to {2} was canceled</source>
-          <target state="new">Moving {0} item from {1} to {2} was canceled</target>
+          <target state="translated">Mover el archivo {0} desde {1} a {2} ha sido cancelado</target>
         </trans-unit>
         <trans-unit id="StatusMoveCanceledDetails_Plural" translate="yes" xml:space="preserve">
           <source>Moving {0} items from {1} to {2} was canceled after moving {3} items</source>
-          <target state="new">Moving {0} items from {1} to {2} was canceled after moving {3} items</target>
+          <target state="translated">Mover el archivo {0} desde {1} a {2} ha sido cancelado después de mover {3} archivos</target>
         </trans-unit>
         <trans-unit id="StatusMoveCanceledDetails_Plural2" translate="yes" xml:space="preserve">
           <source>Moving {0} items from {1} to {2} was canceled after moving {3} item</source>
-          <target state="new">Moving {0} items from {1} to {2} was canceled after moving {3} item</target>
+          <target state="translated">Mover el archivo {0} desde {1} a {2} ha sido cancelado después de mover el archivo {3}</target>
         </trans-unit>
         <trans-unit id="StatusMovingItemsDetails_Singular" translate="yes" xml:space="preserve">
           <source>Moving {0} item from {1} to {2}</source>
-          <target state="new">Moving {0} item from {1} to {2}</target>
+          <target state="translated">Moving {0} item from {1} to {2}</target>
         </trans-unit>
         <trans-unit id="StatusMovingItemsDetails_Plural" translate="yes" xml:space="preserve">
           <source>Moving {0} items from {1} to {2}</source>
-          <target state="new">Moving {0} items from {1} to {2}</target>
+          <target state="translated">Moving {0} items from {1} to {2}</target>
         </trans-unit>
         <trans-unit id="StatusMovedItemsDetails_Singular" translate="yes" xml:space="preserve">
           <source>Successfully moved {0} item from {1} to {2}</source>
-          <target state="new">Successfully moved {0} item from {1} to {2}</target>
+          <target state="translated">Successfully moved {0} item from {1} to {2}</target>
         </trans-unit>
         <trans-unit id="StatusMovedItemsDetails_Plural" translate="yes" xml:space="preserve">
           <source>Successfully moved {0} items from {1} to {2}</source>
-          <target state="new">Successfully moved {0} items from {1} to {2}</target>
+          <target state="translated">Successfully moved {0} items from {1} to {2}</target>
         </trans-unit>
         <trans-unit id="StatusMoveFailedDetails_Singular" translate="yes" xml:space="preserve">
           <source>Failed to move {0} item from {1} to {2}</source>
-          <target state="new">Failed to move {0} item from {1} to {2}</target>
+          <target state="translated">Failed to move {0} item from {1} to {2}</target>
         </trans-unit>
         <trans-unit id="StatusMoveFailedDetails_Plural" translate="yes" xml:space="preserve">
           <source>Failed to move {0} items from {1} to {2}</source>
-          <target state="new">Failed to move {0} items from {1} to {2}</target>
+          <target state="translated">Failed to move {0} items from {1} to {2}</target>
         </trans-unit>
         <trans-unit id="StatusCopyCanceledDetails_Singular" translate="yes" xml:space="preserve">
           <source>Copying {0} item to {1} was canceled</source>
-          <target state="new">Copying {0} item to {1} was canceled</target>
+          <target state="translated">Copying {0} item to {1} was canceled</target>
         </trans-unit>
         <trans-unit id="StatusCopyCanceledDetails_Plural" translate="yes" xml:space="preserve">
           <source>Copying {0} items to {1} was canceled after copying {2} items</source>
-          <target state="new">Copying {0} items to {1} was canceled after copying {2} items</target>
+          <target state="translated">Copying {0} items to {1} was canceled after copying {2} items</target>
         </trans-unit>
         <trans-unit id="StatusCopyCanceledDetails_Plural2" translate="yes" xml:space="preserve">
           <source>Copying {0} items to {1} was canceled after copying {2} item</source>
-          <target state="new">Copying {0} items to {1} was canceled after copying {2} item</target>
+          <target state="translated">Copying {0} items to {1} was canceled after copying {2} item</target>
         </trans-unit>
         <trans-unit id="StatusCopyingItemsDetails_Singular" translate="yes" xml:space="preserve">
           <source>Copying {0} item to {1}</source>
-          <target state="new">Copying {0} item to {1}</target>
+          <target state="translated">Copying {0} item to {1}</target>
         </trans-unit>
         <trans-unit id="StatusCopyingItemsDetails_Plural" translate="yes" xml:space="preserve">
           <source>Copying {0} items to {1}</source>
-          <target state="new">Copying {0} items to {1}</target>
+          <target state="translated">Copying {0} items to {1}</target>
         </trans-unit>
         <trans-unit id="StatusCopiedItemsDetails_Singular" translate="yes" xml:space="preserve">
           <source>Successfully copied {0} item to {1}</source>
-          <target state="new">Successfully copied {0} item to {1}</target>
+          <target state="translated">Successfully copied {0} item to {1}</target>
         </trans-unit>
         <trans-unit id="StatusCopiedItemsDetails_Plural" translate="yes" xml:space="preserve">
           <source>Successfully copied {0} items to {1}</source>
-          <target state="new">Successfully copied {0} items to {1}</target>
+          <target state="translated">Successfully copied {0} items to {1}</target>
         </trans-unit>
         <trans-unit id="StatusDeleteCanceledDetails_Singular" translate="yes" xml:space="preserve">
           <source>Deleting {0} item from {1} was canceled</source>
-          <target state="new">Deleting {0} item from {1} was canceled</target>
+          <target state="translated">Deleting {0} item from {1} was canceled</target>
         </trans-unit>
         <trans-unit id="StatusDeleteCanceledDetails_Plural" translate="yes" xml:space="preserve">
           <source>Deleting {0} items from {1} was canceled after deleting {3} items</source>
-          <target state="new">Deleting {0} items from {1} was canceled after deleting {3} items</target>
+          <target state="translated">Deleting {0} items from {1} was canceled after deleting {3} items</target>
         </trans-unit>
         <trans-unit id="StatusDeleteCanceledDetails_Plural2" translate="yes" xml:space="preserve">
           <source>Deleting {0} items from {1} was canceled after deleting {3} item</source>
-          <target state="new">Deleting {0} items from {1} was canceled after deleting {3} item</target>
+          <target state="translated">Deleting {0} items from {1} was canceled after deleting {3} item</target>
         </trans-unit>
         <trans-unit id="StatusDeletingItemsDetails_Singular" translate="yes" xml:space="preserve">
           <source>Deleting {0} item from {1}</source>
-          <target state="new">Deleting {0} item from {1}</target>
+          <target state="translated">Deleting {0} item from {1}</target>
         </trans-unit>
         <trans-unit id="StatusDeletingItemsDetails_Plural" translate="yes" xml:space="preserve">
           <source>Deleting {0} items from {1}</source>
-          <target state="new">Deleting {0} items from {1}</target>
+          <target state="translated">Deleting {0} items from {1}</target>
         </trans-unit>
         <trans-unit id="StatusDeletedItemsDetails_Singular" translate="yes" xml:space="preserve">
           <source>Successfully deleted {0} item from {1}</source>
-          <target state="new">Successfully deleted {0} item from {1}</target>
+          <target state="translated">Successfully deleted {0} item from {1}</target>
         </trans-unit>
         <trans-unit id="StatusDeletedItemsDetails_Plural" translate="yes" xml:space="preserve">
           <source>Successfully deleted {0} items from {1}</source>
-          <target state="new">Successfully deleted {0} items from {1}</target>
+          <target state="translated">Successfully deleted {0} items from {1}</target>
         </trans-unit>
         <trans-unit id="StatusDeletionFailedDetails_Singular" translate="yes" xml:space="preserve">
           <source>Failed to delete {0} item from {1}</source>
-          <target state="new">Failed to delete {0} item from {1}</target>
+          <target state="translated">Failed to delete {0} item from {1}</target>
         </trans-unit>
         <trans-unit id="TheRecycleBin" translate="yes" xml:space="preserve">
           <source>the Recycle Bin</source>
-          <target state="new">the Recycle Bin</target>
+          <target state="translated">the Recycle Bin</target>
         </trans-unit>
         <trans-unit id="MoveInProgress" translate="yes" xml:space="preserve">
           <source>Moving items</source>
-          <target state="new">Moving items</target>
+          <target state="translated">Moving items</target>
         </trans-unit>
         <trans-unit id="CopyInProgress.Title" translate="yes" xml:space="preserve">
           <source>Copying items</source>
-          <target state="new">Copying items</target>
+          <target state="translated">Copying items</target>
         </trans-unit>
         <trans-unit id="StatusRecycleFailed" translate="yes" xml:space="preserve">
           <source>Recycle failed</source>
-          <target state="new">Recycle failed</target>
+          <target state="translated">Recycle failed</target>
         </trans-unit>
         <trans-unit id="StatusRecycleCancelled" translate="yes" xml:space="preserve">
           <source>Recycle cancelled</source>
-          <target state="new">Recycle cancelled</target>
+          <target state="translated">Recycle cancelled</target>
         </trans-unit>
         <trans-unit id="StatusCancellingOp" translate="yes" xml:space="preserve">
           <source>canceling</source>
-          <target state="new">canceling</target>
+          <target state="translated">canceling</target>
         </trans-unit>
         <trans-unit id="StatusCenterDismissBannerButton.AutomationProperties.Name" translate="yes" xml:space="preserve">
           <source>Dismiss</source>
-          <target state="new">Dismiss</target>
+          <target state="translated">Dismiss</target>
         </trans-unit>
         <trans-unit id="StatusCenterDismissBannerButton.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
           <source>Dismiss</source>
-          <target state="new">Dismiss</target>
+          <target state="translated">Dismiss</target>
         </trans-unit>
         <trans-unit id="StatusCenterCancelBannerButton.AutomationProperties.Name" translate="yes" xml:space="preserve">
           <source>Cancel</source>
-          <target state="new">Cancel</target>
+          <target state="translated">Cancel</target>
         </trans-unit>
         <trans-unit id="StatusCenterCancelBannerButton.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
           <source>Cancel</source>
-          <target state="new">Cancel</target>
+          <target state="translated">Cancel</target>
         </trans-unit>
         <trans-unit id="NavToolbarWidgets.Label" translate="yes" xml:space="preserve">
           <source>Widgets</source>
-          <target state="new">Widgets</target>
+          <target state="translated">Widgets</target>
         </trans-unit>
         <trans-unit id="NavToolbarSelectionOptions.Label" translate="yes" xml:space="preserve">
           <source>Select</source>
-          <target state="new">Select</target>
+          <target state="translated">Select</target>
         </trans-unit>
         <trans-unit id="NavToolbarLayoutOptionsButton.AutomationProperties.Name" translate="yes" xml:space="preserve">
           <source>Layout</source>
-          <target state="new">Layout</target>
+          <target state="translated">Layout</target>
         </trans-unit>
         <trans-unit id="NavToolbarLayoutOptionsButton.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
           <source>Layout</source>
-          <target state="new">Layout</target>
+          <target state="translated">Layout</target>
         </trans-unit>
         <trans-unit id="NavToolbarLayoutOptionsButton.Label" translate="yes" xml:space="preserve">
           <source>Layout</source>
-          <target state="new">Layout</target>
+          <target state="translated">Layout</target>
         </trans-unit>
         <trans-unit id="PreviewPaneToggle.Label" translate="yes" xml:space="preserve">
           <source>Preview</source>
-          <target state="new">Preview</target>
+          <target state="translated">Preview</target>
         </trans-unit>
         <trans-unit id="NavToolbarSortOptionsButton.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
           <source>Sort</source>
-          <target state="new">Sort</target>
+          <target state="translated">Sort</target>
         </trans-unit>
         <trans-unit id="NavToolbarSortOptionsButton.AutomationProperties.Name" translate="yes" xml:space="preserve">
           <source>Sort</source>
-          <target state="new">Sort</target>
+          <target state="translated">Sort</target>
         </trans-unit>
         <trans-unit id="NavToolbarSortOptionsButton.Label" translate="yes" xml:space="preserve">
           <source>Sort</source>
-          <target state="new">Sort</target>
+          <target state="translated">Sort</target>
         </trans-unit>
         <trans-unit id="NavToolbarLayout.Text" translate="yes" xml:space="preserve">
           <source>Layout</source>
-          <target state="new">Layout</target>
+          <target state="translated">Layout</target>
         </trans-unit>
         <trans-unit id="SettingsDialogCloseButton.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
           <source>Close</source>
-          <target state="new">Close</target>
+          <target state="translated">Close</target>
         </trans-unit>
         <trans-unit id="BaseLayoutContextFlyoutSortBySyncStatus.Text" translate="yes" xml:space="preserve">
           <source>Sync status</source>
-          <target state="new">Sync status</target>
+          <target state="translated">Sync status</target>
         </trans-unit>
         <trans-unit id="NavToolbarArrangementOption_SyncStatus.Content" translate="yes" xml:space="preserve">
           <source>Sync status</source>
-          <target state="new">Sync status</target>
+          <target state="translated">Sync status</target>
         </trans-unit>
         <trans-unit id="StatusDeletionFailedDetails_Plural" translate="yes" xml:space="preserve">
           <source>Failed to delete {0} items from {1}</source>
-          <target state="new">Failed to delete {0} items from {1}</target>
+          <target state="translated">Failed to delete {0} items from {1}</target>
         </trans-unit>
         <trans-unit id="NavigationToolbarNewTab.Label" translate="yes" xml:space="preserve">
           <source>New tab</source>
-          <target state="new">New tab</target>
+          <target state="translated">New tab</target>
         </trans-unit>
         <trans-unit id="NavigationToolbarNewWindow.Label" translate="yes" xml:space="preserve">
           <source>New window</source>
-          <target state="new">New window</target>
+          <target state="translated">New window</target>
         </trans-unit>
         <trans-unit id="NavigationToolbarCopyPath.Label" translate="yes" xml:space="preserve">
           <source>Copy location</source>
-          <target state="new">Copy location</target>
+          <target state="translated">Copy location</target>
         </trans-unit>
         <trans-unit id="NavigationToolbarPaste.Label" translate="yes" xml:space="preserve">
           <source>Paste</source>
-          <target state="new">Paste</target>
+          <target state="translated">Paste</target>
         </trans-unit>
         <trans-unit id="NavigationToolbarOpenInTerminal.Label" translate="yes" xml:space="preserve">
           <source>Open in Terminal...</source>
-          <target state="new">Open in Terminal...</target>
+          <target state="translated">Open in Terminal...</target>
         </trans-unit>
         <trans-unit id="BaseLayoutContextFlyoutNew.Label" translate="yes" xml:space="preserve">
           <source>New</source>
-          <target state="new">New</target>
+          <target state="translated">New</target>
         </trans-unit>
         <trans-unit id="NavigationToolbarNewPane.Label" translate="yes" xml:space="preserve">
           <source>New pane</source>
-          <target state="new">New pane</target>
+          <target state="translated">New pane</target>
         </trans-unit>
         <trans-unit id="PropertiesDialogTabSecurity.Content" translate="yes" xml:space="preserve">
           <source>Security</source>
-          <target state="new">Security</target>
+          <target state="translated">Security</target>
         </trans-unit>
         <trans-unit id="SecurityAdvancedPermissions.Text" translate="yes" xml:space="preserve">
           <source>Advanced permissions</source>
-          <target state="new">Advanced permissions</target>
+          <target state="translated">Advanced permissions</target>
         </trans-unit>
         <trans-unit id="SecurityAllowLabel.Text" translate="yes" xml:space="preserve">
           <source>Allow</source>
-          <target state="new">Allow</target>
+          <target state="translated">Allow</target>
         </trans-unit>
         <trans-unit id="SecurityDenyLabel.Text" translate="yes" xml:space="preserve">
           <source>Deny</source>
-          <target state="new">Deny</target>
+          <target state="translated">Deny</target>
         </trans-unit>
         <trans-unit id="SecurityFullControlLabel.Text" translate="yes" xml:space="preserve">
           <source>Full control</source>
-          <target state="new">Full control</target>
+          <target state="translated">Full control</target>
         </trans-unit>
         <trans-unit id="SecurityListDirectoryLabel.Text" translate="yes" xml:space="preserve">
           <source>List directory contents</source>
-          <target state="new">List directory contents</target>
+          <target state="translated">List directory contents</target>
         </trans-unit>
         <trans-unit id="SecurityModifyLabel.Text" translate="yes" xml:space="preserve">
           <source>Modify</source>
-          <target state="new">Modify</target>
+          <target state="translated">Modify</target>
         </trans-unit>
         <trans-unit id="SecurityPermissionsLabel.Text" translate="yes" xml:space="preserve">
           <source>Permissions for</source>
-          <target state="new">Permissions for</target>
+          <target state="translated">Permissions for</target>
         </trans-unit>
         <trans-unit id="SecurityReadAndExecuteLabel.Text" translate="yes" xml:space="preserve">
           <source>Read and execute</source>
-          <target state="new">Read and execute</target>
+          <target state="translated">Read and execute</target>
         </trans-unit>
         <trans-unit id="SecurityReadLabel.Text" translate="yes" xml:space="preserve">
           <source>Read</source>
-          <target state="new">Read</target>
+          <target state="translated">Read</target>
         </trans-unit>
         <trans-unit id="SecurityUsersGroupLabel.Text" translate="yes" xml:space="preserve">
           <source>Group or user names</source>
-          <target state="new">Group or user names</target>
+          <target state="translated">Group or user names</target>
         </trans-unit>
         <trans-unit id="SecurityWriteLabel.Text" translate="yes" xml:space="preserve">
           <source>Write</source>
-          <target state="new">Write</target>
+          <target state="translated">Write</target>
         </trans-unit>
         <trans-unit id="SecurityUnknownAccount" translate="yes" xml:space="preserve">
           <source>Unknown account</source>
-          <target state="new">Unknown account</target>
+          <target state="translated">Unknown account</target>
         </trans-unit>
         <trans-unit id="SecurityCannotReadProperties.Text" translate="yes" xml:space="preserve">
           <source>You do not have permissions to view the security properties of this object. Click "Advanced permissions" to proceed.</source>
-          <target state="new">You do not have permissions to view the security properties of this object. Click "Advanced permissions" to proceed.</target>
+          <target state="translated">You do not have permissions to view the security properties of this object. Click "Advanced permissions" to proceed.</target>
         </trans-unit>
         <trans-unit id="SecurityOwnerLabel.Text" translate="yes" xml:space="preserve">
           <source>Owner</source>
-          <target state="new">Owner</target>
+          <target state="translated">Owner</target>
         </trans-unit>
         <trans-unit id="SecurityUnknownOwnerText.Text" translate="yes" xml:space="preserve">
           <source>Unknown owner</source>
-          <target state="new">Unknown owner</target>
+          <target state="translated">Unknown owner</target>
         </trans-unit>
         <trans-unit id="SettingsNavSidebar.Content" translate="yes" xml:space="preserve">
           <source>Sidebar</source>
-          <target state="new">Sidebar</target>
+          <target state="translated">Sidebar</target>
         </trans-unit>
         <trans-unit id="SettingsSidebarTitle.Text" translate="yes" xml:space="preserve">
           <source>Sidebar</source>
-          <target state="new">Sidebar</target>
+          <target state="translated">Sidebar</target>
         </trans-unit>
         <trans-unit id="SettingsVerticalTabFlyoutSwitch.Header" translate="yes" xml:space="preserve">
           <source>Display vertical tab flyout on the title bar</source>
-          <target state="new">Display vertical tab flyout on the title bar</target>
+          <target state="translated">Display vertical tab flyout on the title bar</target>
         </trans-unit>
         <trans-unit id="DefaultSkin" translate="yes" xml:space="preserve">
           <source>Default</source>
-          <target state="new">Default</target>
+          <target state="translated">Default</target>
         </trans-unit>
         <trans-unit id="SettingsAppearanceCustomSkins.Header" translate="yes" xml:space="preserve">
           <source>Custom skin</source>
-          <target state="new">Custom skin</target>
+          <target state="translated">Custom skin</target>
         </trans-unit>
         <trans-unit id="SettingsAppearanceOpenSkinsFolderButton.Content" translate="yes" xml:space="preserve">
           <source>Open skins folder</source>
-          <target state="new">Open skins folder</target>
+          <target state="translated">Open skins folder</target>
         </trans-unit>
         <trans-unit id="SettingsSkinsLearnMoreButton.AutomationProperties.Name" translate="yes" xml:space="preserve">
           <source>Learn more about custom skins</source>
-          <target state="new">Learn more about custom skins</target>
+          <target state="translated">Learn more about custom skins</target>
         </trans-unit>
         <trans-unit id="SettingsSkinsLearnMoreButton.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
           <source>Learn more about custom skins</source>
-          <target state="new">Learn more about custom skins</target>
+          <target state="translated">Learn more about custom skins</target>
         </trans-unit>
         <trans-unit id="SettingsSkinsTeachingTipHeader.Text" translate="yes" xml:space="preserve">
           <source>Custom skins provide a great way for you to personalize Files.</source>
-          <target state="new">Custom skins provide a great way for you to personalize Files.</target>
+          <target state="translated">Custom skins provide a great way for you to personalize Files.</target>
         </trans-unit>
         <trans-unit id="SettingsSkinsTeachingTipHyperlinkText.Text" translate="yes" xml:space="preserve">
           <source>View documentation.</source>
-          <target state="new">View documentation.</target>
+          <target state="translated">View documentation.</target>
         </trans-unit>
         <trans-unit id="VerticalTabFlyout.AutomationProperties.Name" translate="yes" xml:space="preserve">
           <source>Vertical tab flyout</source>
-          <target state="new">Vertical tab flyout</target>
+          <target state="translated">Vertical tab flyout</target>
         </trans-unit>
         <trans-unit id="VerticalTabFlyout.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
           <source>Vertical tab flyout</source>
-          <target state="new">Vertical tab flyout</target>
+          <target state="translated">Vertical tab flyout</target>
         </trans-unit>
         <trans-unit id="HorizontalMultitaskingControlAddButton.AutomationProperties.Name" translate="yes" xml:space="preserve">
           <source>New tab (Ctrl+T)</source>
-          <target state="new">New tab (Ctrl+T)</target>
+          <target state="translated">New tab (Ctrl+T)</target>
         </trans-unit>
         <trans-unit id="SideBarCreateNewLibrary.Text" translate="yes" xml:space="preserve">
           <source>Create new library</source>
-          <target state="new">Create new library</target>
+          <target state="translated">Create new library</target>
         </trans-unit>
         <trans-unit id="SideBarRestoreLibraries.Text" translate="yes" xml:space="preserve">
           <source>Restore default libraries</source>
-          <target state="new">Restore default libraries</target>
+          <target state="translated">Restore default libraries</target>
         </trans-unit>
         <trans-unit id="DialogRestoreLibrariesButtonText" translate="yes" xml:space="preserve">
           <source>Restore</source>
-          <target state="new">Restore</target>
+          <target state="translated">Restore</target>
         </trans-unit>
         <trans-unit id="DialogRestoreLibrariesSubtitleText" translate="yes" xml:space="preserve">
           <source>Are you sure you want to restore the default libraries? All your files will remain on your storage.</source>
-          <target state="new">Are you sure you want to restore the default libraries? All your files will remain on your storage.</target>
+          <target state="translated">Are you sure you want to restore the default libraries? All your files will remain on your storage.</target>
         </trans-unit>
         <trans-unit id="DialogRestoreLibrariesTitleText" translate="yes" xml:space="preserve">
           <source>Restore Libraries</source>
-          <target state="new">Restore Libraries</target>
+          <target state="translated">Restore Libraries</target>
         </trans-unit>
         <trans-unit id="RecentFilesHeader.Text" translate="yes" xml:space="preserve">
           <source>Recent Files</source>
-          <target state="new">Recent Files</target>
+          <target state="translated">Recent Files</target>
         </trans-unit>
         <trans-unit id="BundlesOpenInNewPane.Text" translate="yes" xml:space="preserve">
           <source>Open in new Pane</source>
-          <target state="new">Open in new Pane</target>
+          <target state="translated">Open in new Pane</target>
         </trans-unit>
         <trans-unit id="PropertyFileOwner" translate="yes" xml:space="preserve">
           <source>Owner</source>
-          <target state="new">Owner</target>
+          <target state="translated">Owner</target>
         </trans-unit>
         <trans-unit id="SecurityAdvancedPermissionsTitle" translate="yes" xml:space="preserve">
           <source>Advanced permissions for {0}</source>
-          <target state="new">Advanced permissions for {0}</target>
+          <target state="translated">Advanced permissions for {0}</target>
         </trans-unit>
         <trans-unit id="SecuritySpecialLabel.Text" translate="yes" xml:space="preserve">
           <source>Special</source>
-          <target state="new">Special</target>
+          <target state="translated">Special</target>
         </trans-unit>
         <trans-unit id="SecurityAdvancedAccessLabel.Text" translate="yes" xml:space="preserve">
           <source>Access</source>
-          <target state="new">Access</target>
+          <target state="translated">Access</target>
         </trans-unit>
         <trans-unit id="SecurityAdvancedAppliesToLabel.Text" translate="yes" xml:space="preserve">
           <source>Applies to</source>
-          <target state="new">Applies to</target>
+          <target state="translated">Applies to</target>
         </trans-unit>
         <trans-unit id="SecurityAdvancedEntityLabel.Text" translate="yes" xml:space="preserve">
           <source>Entity</source>
-          <target state="new">Entity</target>
+          <target state="translated">Entity</target>
         </trans-unit>
         <trans-unit id="SecurityAdvancedFlagsFilesLabel" translate="yes" xml:space="preserve">
           <source>files</source>
-          <target state="new">files</target>
+          <target state="translated">files</target>
         </trans-unit>
         <trans-unit id="SecurityAdvancedFlagsFolderLabel" translate="yes" xml:space="preserve">
           <source>this folder</source>
-          <target state="new">this folder</target>
+          <target state="translated">this folder</target>
         </trans-unit>
         <trans-unit id="SecurityAdvancedFlagsSubfoldersLabel" translate="yes" xml:space="preserve">
           <source>subfolders</source>
-          <target state="new">subfolders</target>
+          <target state="translated">subfolders</target>
         </trans-unit>
         <trans-unit id="SecurityAdvancedInheritedLabel.Text" translate="yes" xml:space="preserve">
           <source>Inherited</source>
-          <target state="new">Inherited</target>
+          <target state="translated">Inherited</target>
         </trans-unit>
         <trans-unit id="SecurityAdvancedInheritedNoLabel" translate="yes" xml:space="preserve">
           <source>No</source>
-          <target state="new">No</target>
+          <target state="translated">No</target>
         </trans-unit>
         <trans-unit id="SecurityAdvancedInheritedYesLabel" translate="yes" xml:space="preserve">
           <source>Yes</source>
-          <target state="new">Yes</target>
+          <target state="translated">Yes</target>
         </trans-unit>
         <trans-unit id="SecurityAdvancedPermissionsLabel.Text" translate="yes" xml:space="preserve">
           <source>Permissions</source>
-          <target state="new">Permissions</target>
+          <target state="translated">Permissions</target>
         </trans-unit>
         <trans-unit id="SecurityAdvancedTypeLabel.Text" translate="yes" xml:space="preserve">
           <source>Type</source>
-          <target state="new">Type</target>
+          <target state="translated">Type</target>
         </trans-unit>
         <trans-unit id="SecurityAdvancedCannotReadProperties.Text" translate="yes" xml:space="preserve">
           <source>You do not have permissions to view the security properties of this object. You can try to take ownership of this object.</source>
-          <target state="new">You do not have permissions to view the security properties of this object. You can try to take ownership of this object.</target>
+          <target state="translated">You do not have permissions to view the security properties of this object. You can try to take ownership of this object.</target>
         </trans-unit>
         <trans-unit id="SecurityAdvancedSpecialLabel.Text" translate="yes" xml:space="preserve">
           <source>Special</source>
-          <target state="new">Special</target>
+          <target state="translated">Special</target>
         </trans-unit>
         <trans-unit id="SecurityAdvancedFolderFiles.Text" translate="yes" xml:space="preserve">
           <source>This folder and files</source>
-          <target state="new">This folder and files</target>
+          <target state="translated">This folder and files</target>
         </trans-unit>
         <trans-unit id="SecurityAdvancedFolderSubfoldersFiles.Text" translate="yes" xml:space="preserve">
           <source>This folder, subfolders and files</source>
-          <target state="new">This folder, subfolders and files</target>
+          <target state="translated">This folder, subfolders and files</target>
         </trans-unit>
         <trans-unit id="SecurityAdvancedOnlyFiles.Text" translate="yes" xml:space="preserve">
           <source>Only files</source>
-          <target state="new">Only files</target>
+          <target state="translated">Only files</target>
         </trans-unit>
         <trans-unit id="SecurityAdvancedOnlySubfolders.Text" translate="yes" xml:space="preserve">
           <source>Only subfolders</source>
-          <target state="new">Only subfolders</target>
+          <target state="translated">Only subfolders</target>
         </trans-unit>
         <trans-unit id="SecurityAdvancedOnlySubfoldersFiles.Text" translate="yes" xml:space="preserve">
           <source>Only subfolders and files</source>
-          <target state="new">Only subfolders and files</target>
+          <target state="translated">Only subfolders and files</target>
         </trans-unit>
         <trans-unit id="SecurityAdvancedOnlyThisFolder.Text" translate="yes" xml:space="preserve">
           <source>Only this folder</source>
-          <target state="new">Only this folder</target>
+          <target state="translated">Only this folder</target>
         </trans-unit>
         <trans-unit id="SecurityAdvancedFolderSubfolders.Text" translate="yes" xml:space="preserve">
           <source>This folder and subfolders</source>
-          <target state="new">This folder and subfolders</target>
+          <target state="translated">This folder and subfolders</target>
         </trans-unit>
         <trans-unit id="SecurityAppendDataLabel.Text" translate="yes" xml:space="preserve">
           <source>Append data</source>
-          <target state="new">Append data</target>
+          <target state="translated">Append data</target>
         </trans-unit>
         <trans-unit id="SecurityChangePermissionsLabel.Text" translate="yes" xml:space="preserve">
           <source>Change permission</source>
-          <target state="new">Change permission</target>
+          <target state="translated">Change permission</target>
         </trans-unit>
         <trans-unit id="SecurityCreateDirectoriesLabel.Text" translate="yes" xml:space="preserve">
           <source>Create folders</source>
-          <target state="new">Create folders</target>
+          <target state="translated">Create folders</target>
         </trans-unit>
         <trans-unit id="SecurityCreateFilesLabel.Text" translate="yes" xml:space="preserve">
           <source>Create files</source>
-          <target state="new">Create files</target>
+          <target state="translated">Create files</target>
         </trans-unit>
         <trans-unit id="SecurityDeleteLabel.Text" translate="yes" xml:space="preserve">
           <source>Delete</source>
-          <target state="new">Delete</target>
+          <target state="translated">Delete</target>
         </trans-unit>
         <trans-unit id="SecurityDeleteSubdirectoriesAndFilesLabel.Text" translate="yes" xml:space="preserve">
           <source>Delete subdirectories and files</source>
-          <target state="new">Delete subdirectories and files</target>
+          <target state="translated">Delete subdirectories and files</target>
         </trans-unit>
         <trans-unit id="SecurityExecuteFileLabel.Text" translate="yes" xml:space="preserve">
           <source>Execute files</source>
-          <target state="new">Execute files</target>
+          <target state="translated">Execute files</target>
         </trans-unit>
         <trans-unit id="SecurityReadAttributesLabel.Text" translate="yes" xml:space="preserve">
           <source>Read attributes</source>
-          <target state="new">Read attributes</target>
+          <target state="translated">Read attributes</target>
         </trans-unit>
         <trans-unit id="SecurityReadDataLabel.Text" translate="yes" xml:space="preserve">
           <source>Read data</source>
-          <target state="new">Read data</target>
+          <target state="translated">Read data</target>
         </trans-unit>
         <trans-unit id="SecurityReadExtendedAttributesLabel.Text" translate="yes" xml:space="preserve">
           <source>Read extended attributes</source>
-          <target state="new">Read extended attributes</target>
+          <target state="translated">Read extended attributes</target>
         </trans-unit>
         <trans-unit id="SecurityReadPermissionsLabel.Text" translate="yes" xml:space="preserve">
           <source>Read permissions</source>
-          <target state="new">Read permissions</target>
+          <target state="translated">Read permissions</target>
         </trans-unit>
         <trans-unit id="SecurityTakeOwnershipLabel.Text" translate="yes" xml:space="preserve">
           <source>Take ownership</source>
-          <target state="new">Take ownership</target>
+          <target state="translated">Take ownership</target>
         </trans-unit>
         <trans-unit id="SecurityTraverseLabel.Text" translate="yes" xml:space="preserve">
           <source>Visit folder</source>
-          <target state="new">Visit folder</target>
+          <target state="translated">Visit folder</target>
         </trans-unit>
         <trans-unit id="SecurityWriteAttributesLabel.Text" translate="yes" xml:space="preserve">
           <source>Write attributes</source>
-          <target state="new">Write attributes</target>
+          <target state="translated">Write attributes</target>
         </trans-unit>
         <trans-unit id="SecurityWriteDataLabel.Text" translate="yes" xml:space="preserve">
           <source>Write data</source>
-          <target state="new">Write data</target>
+          <target state="translated">Write data</target>
         </trans-unit>
         <trans-unit id="SecurityWriteExtendedAttributesLabel.Text" translate="yes" xml:space="preserve">
           <source>Write extended attributes</source>
-          <target state="new">Write extended attributes</target>
+          <target state="translated">Write extended attributes</target>
         </trans-unit>
         <trans-unit id="SecurityNoneLabel.Text" translate="yes" xml:space="preserve">
           <source>None</source>
-          <target state="new">None</target>
+          <target state="translated">None</target>
         </trans-unit>
         <trans-unit id="SecurityAdvancedInheritedConvert.Text" translate="yes" xml:space="preserve">
           <source>Convert inherited permissions into explicit permissions</source>
-          <target state="new">Convert inherited permissions into explicit permissions</target>
+          <target state="translated">Convert inherited permissions into explicit permissions</target>
         </trans-unit>
         <trans-unit id="SecurityAdvancedInheritedEnable.Text" translate="yes" xml:space="preserve">
           <source>Enable inheritance</source>
-          <target state="new">Enable inheritance</target>
+          <target state="translated">Enable inheritance</target>
         </trans-unit>
         <trans-unit id="SecurityAdvancedInheritedRemove.Text" translate="yes" xml:space="preserve">
           <source>Remove all inherited permissions</source>
-          <target state="new">Remove all inherited permissions</target>
+          <target state="translated">Remove all inherited permissions</target>
         </trans-unit>
         <trans-unit id="SecurityAdvancedReplaceChildPermissions.Text" translate="yes" xml:space="preserve">
           <source>Reset child permissions</source>
-          <target state="new">Reset child permissions</target>
+          <target state="translated">Reset child permissions</target>
         </trans-unit>
         <trans-unit id="SecurityAdvancedReplaceChildPermissions2.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
           <source>Replace all child object permissions entries with inheritable permission entries from this object</source>
-          <target state="new">Replace all child object permissions entries with inheritable permission entries from this object</target>
+          <target state="translated">Replace all child object permissions entries with inheritable permission entries from this object</target>
         </trans-unit>
         <trans-unit id="CreateBundleBtn.AutomationProperties.Name" translate="yes" xml:space="preserve">
           <source>Create Bundle</source>
-          <target state="new">Create Bundle</target>
+          <target state="translated">Create Bundle</target>
         </trans-unit>
         <trans-unit id="CreateBundleBtn.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
           <source>Create Bundle</source>
-          <target state="new">Create Bundle</target>
+          <target state="translated">Create Bundle</target>
         </trans-unit>
         <trans-unit id="NavigationToolbarClosePane.Label" translate="yes" xml:space="preserve">
           <source>Close pane</source>
-          <target state="new">Close pane</target>
+          <target state="translated">Close pane</target>
         </trans-unit>
         <trans-unit id="PropertyFileDescription" translate="yes" xml:space="preserve">
           <source>File description</source>
-          <target state="new">File description</target>
+          <target state="translated">File description</target>
         </trans-unit>
         <trans-unit id="PropertyCompany" translate="yes" xml:space="preserve">
           <source>Company</source>
-          <target state="new">Company</target>
+          <target state="translated">Company</target>
         </trans-unit>
         <trans-unit id="PropertyLanguage" translate="yes" xml:space="preserve">
           <source>Language</source>
-          <target state="new">Language</target>
+          <target state="translated">Language</target>
         </trans-unit>
         <trans-unit id="PropertyTrademarks" translate="yes" xml:space="preserve">
           <source>Trademarks</source>
-          <target state="new">Trademarks</target>
+          <target state="translated">Trademarks</target>
         </trans-unit>
         <trans-unit id="PropertyFileVersion" translate="yes" xml:space="preserve">
           <source>File version</source>
-          <target state="new">File version</target>
+          <target state="translated">File version</target>
         </trans-unit>
         <trans-unit id="PropertySyncStatus" translate="yes" xml:space="preserve">
           <source>Sync status</source>
-          <target state="new">Sync status</target>
+          <target state="translated">Sync status</target>
         </trans-unit>
         <trans-unit id="PreviewPaneLoadCloudItemButton.Content" translate="yes" xml:space="preserve">
           <source>Load full preview</source>
-          <target state="new">Load full preview</target>
+          <target state="translated">Load full preview</target>
         </trans-unit>
         <trans-unit id="PreviewPaneLoadCloudItemButton.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
           <source>Downloads the item from the cloud and loads the preview</source>
-          <target state="new">Downloads the item from the cloud and loads the preview</target>
+          <target state="translated">Downloads the item from the cloud and loads the preview</target>
         </trans-unit>
         <trans-unit id="DecompressArchiveDialog.Title" translate="yes" xml:space="preserve">
           <source>Select a destination and extract files</source>
-          <target state="new">Select a destination and extract files</target>
+          <target state="translated">Select a destination and extract files</target>
         </trans-unit>
         <trans-unit id="DecompressArchiveDialogBrowseFolder.Content" translate="yes" xml:space="preserve">
           <source>Browse</source>
-          <target state="new">Browse</target>
+          <target state="translated">Browse</target>
         </trans-unit>
         <trans-unit id="DecompressArchiveDialogOpenDestinationWhenComplete.Content" translate="yes" xml:space="preserve">
           <source>Open destination folder when complete</source>
-          <target state="new">Open destination folder when complete</target>
+          <target state="translated">Open destination folder when complete</target>
         </trans-unit>
         <trans-unit id="BaseLayoutItemContextFlyoutExtractFilesOption" translate="yes" xml:space="preserve">
           <source>Extract files</source>
-          <target state="new">Extract files</target>
+          <target state="translated">Extract files</target>
         </trans-unit>
         <trans-unit id="BaseLayoutItemContextFlyoutExtractHereOption" translate="yes" xml:space="preserve">
           <source>Extract here</source>
-          <target state="new">Extract here</target>
+          <target state="translated">Extract here</target>
         </trans-unit>
         <trans-unit id="BaseLayoutItemContextFlyoutExtractionOptions" translate="yes" xml:space="preserve">
           <source>Extract...</source>
-          <target state="new">Extract...</target>
+          <target state="translated">Extract...</target>
         </trans-unit>
         <trans-unit id="BaseLayoutItemContextFlyoutExtractToChildFolder" translate="yes" xml:space="preserve">
           <source>Extract to {0}\</source>
-          <target state="new">Extract to {0}\</target>
+          <target state="translated">Extract to {0}\</target>
         </trans-unit>
         <trans-unit id="DetailsArchiveItemCount" translate="yes" xml:space="preserve">
           <source>{0} items ({1} files, {2} folders)</source>
-          <target state="new">{0} items ({1} files, {2} folders)</target>
+          <target state="translated">{0} items ({1} files, {2} folders)</target>
         </trans-unit>
         <trans-unit id="PropertyUncompressedSize" translate="yes" xml:space="preserve">
           <source>Uncompressed size</source>
-          <target state="new">Uncompressed size</target>
+          <target state="translated">Uncompressed size</target>
         </trans-unit>
       </group>
     </body>
